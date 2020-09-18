@@ -1,3 +1,1 @@
-## You can see all projects in action here
-
-[Projects](https://www.vanillajavascriptprojects.com/)
+Javascript projects i made following the freeCodeCamp tutorials 
